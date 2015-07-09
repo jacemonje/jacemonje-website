@@ -89,16 +89,19 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: #60778A;
     text-decoration: none;
 
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
+    // color: $text-color;
+    // text-decoration: none;
+    //
+    // &:visited {
+    //     color: darken($brand-color, 15%);
+    // }
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        color: #3C75A3;
+        text-decoration:inherit;
     }
 }
 

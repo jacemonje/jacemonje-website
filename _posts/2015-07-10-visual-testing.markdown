@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "ÆLOGICA Internship"
+title:  "Something"
 date:   2015-07-09 00:00:01
-categories: blog work
+categories: blog
 ---
 
-It's a gloomy Thursday. Lorem ipsum ad infinitum yolo swag
 
 ```
-$ sudo rm -rf
+$ sudo brew install gem install npm install void
 ```
