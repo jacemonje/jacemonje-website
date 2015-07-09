@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-clean
 ---
 
 <div class="home">
@@ -20,3 +20,5 @@ layout: default
   <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
 </div>
+
+<marquee>under construction phowz</marquee>

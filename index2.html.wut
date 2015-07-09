@@ -1,13 +1,12 @@
 ---
-<!-- layout: default-clean -->
-layout: under-construction
+layout: default-clean
 ---
 
 <div class="home">
 
   <h1 class="page-heading"></h1>
 
-  <ul class="post-list">
+  <!-- <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -17,6 +16,7 @@ layout: under-construction
         </h2>
       </li>
     {% endfor %}
-  </ul>
+  </ul> -->
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
 </div>
